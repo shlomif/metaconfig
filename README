@@ -19,7 +19,7 @@ back here.
 Contents of this directory:
 
     README:	This file.
-    U:		Metaconfig units used for buliding Perl's Configure
+    U:		Metaconfig units used for building Perl's Configure
     U.check:	Sample directory used for testing new metaconfig units.
     		see U.check/README for more information.
     dist-3.5-20:
